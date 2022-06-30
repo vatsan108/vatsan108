@@ -1,5 +1,6 @@
 ### Hi there 👋
-
+I am Srivatsan. Currently I am pursuing my Masters from BITS Pilani-Hyderabad. I love coding and have knack in problem solving and algorithmic thinking.
+I love reading research papers and implementing it.
 <!--
 **vatsan108/vatsan108** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
